@@ -1,5 +1,5 @@
-function DataList(props) {
-  const { dataType, data } = props;
+function DataList({dataType, data}) {
+  // const { dataType, data } = props;
 
   return (
     <>
